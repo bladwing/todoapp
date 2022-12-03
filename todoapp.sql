@@ -95,7 +95,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `pwd`, `email`, `mobile`, `createdAt`, `updatedAt`) VALUES
-(50, 'Timote Ponarenko', 'tima123', 'timoti.ponarenko@gmail.com', 555431296, '2022-09-30 00:00:00', '2022-12-02 20:44:49');
+(50, 'Admin', '1234', 'test.testishvili@gmail.com', 555-555-555, '2022-09-30 00:00:00', '2022-12-02 20:44:49');
 
 --
 -- Indexes for dumped tables
